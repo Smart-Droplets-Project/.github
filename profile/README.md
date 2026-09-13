@@ -18,4 +18,4 @@ Check out our [Wiki page](https://github.com/Smart-Droplets-Project/.github/wiki
 
 The Smart Droplets project has received funding from the European Union's Horizon research and innovation programme under grant agreement No. 101070496.
 
-![Cofunded by the EU](img/eu-cofunded.png)
+![Cofunded by the EU](img/eu_co_funded_en.jpg)
