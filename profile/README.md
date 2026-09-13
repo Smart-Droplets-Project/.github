@@ -15,3 +15,6 @@ Check out our [Wiki page](https://github.com/Smart-Droplets-Project/.github/wiki
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+The Smart Droplets project has received funding from the European Union's Horizon research and innovation programme under grant agreement No. 101070496.
+
